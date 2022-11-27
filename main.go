@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/marie-0405/gadget/gadgett"
+	"gadget/gadget"
 )
 
 func main() {
-	player := gadgett.TapePlayer{}
+	player := gadget.TapePlayer{}
 	mixtape := []string{"yoru", "setuna", "back"}
 
 }
